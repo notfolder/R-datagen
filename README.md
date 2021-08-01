@@ -15,4 +15,4 @@
 上記それぞれの分布のYを生成、[data-multicol.zip]として生成する
 
 
-[data-independent.zip](https://zenodo.org/record/5151404)
+[データアップロード先](https://zenodo.org/record/5151442)
