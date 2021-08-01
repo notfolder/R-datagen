@@ -13,4 +13,4 @@
 
 ※多重共線性のある変数を取り込んだ変数Xを別途生成する
 
-[data-independent.zip](https://zenodo.org/record/5151337#.YQZ6uVOmMc8)
+[data-independent.zip](https://zenodo.org/record/5151404)
